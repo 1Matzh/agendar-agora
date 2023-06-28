@@ -33,7 +33,7 @@ Caso você queira entrar diretamente no banco de dados, use o "SQLiteManager" pa
 
 Observações
 
-Esse projeto foi inteiramente feito por mim Matheus Benasse, ele foi feito em cerca de 2~3 semanas
+Esse projeto foi inteiramente feito por mim, ele foi feito em cerca de 2~3 semanas
 e provavelmente possui alguns erros, falhas e possíveis imcompatibilidades.
 
 
@@ -73,5 +73,5 @@ If you want to go directly into the database, use "SQLiteManager" to access.
 
 Note
 
-This project was entirely made by me Matheus Benasse, it was made in about 2~3 weeks
+This project was entirely made by me, it was made in about 2~3 weeks
 and probably has some bugs, glitches and possible incompatibilities.
